@@ -1,0 +1,11 @@
+E:\z_WorkData\版本库\OperationManager\OperationManager.Common\bin\Debug\OperationManager.Common.dll
+E:\z_WorkData\版本库\OperationManager\OperationManager.Common\bin\Debug\OperationManager.Common.pdb
+E:\z_WorkData\版本库\OperationManager\OperationManager.Common\bin\Debug\Dy.Common.dll
+E:\z_WorkData\版本库\OperationManager\OperationManager.Common\obj\Debug\OperationManager.Common.dll
+E:\z_WorkData\版本库\OperationManager\OperationManager.Common\obj\Debug\OperationManager.Common.pdb
+D:\新建文件夹\OperationManager\OperationManager.Common\bin\Debug\OperationManager.Common.dll
+D:\新建文件夹\OperationManager\OperationManager.Common\bin\Debug\OperationManager.Common.pdb
+D:\新建文件夹\OperationManager\OperationManager.Common\bin\Debug\Dy.Common.dll
+D:\新建文件夹\OperationManager\OperationManager.Common\obj\Debug\OperationManager.Common.csproj.CoreCompileInputs.cache
+D:\新建文件夹\OperationManager\OperationManager.Common\obj\Debug\OperationManager.Common.dll
+D:\新建文件夹\OperationManager\OperationManager.Common\obj\Debug\OperationManager.Common.pdb
