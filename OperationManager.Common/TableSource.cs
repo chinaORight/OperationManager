@@ -6,6 +6,6 @@ namespace OperationManager.Common
     {
         public long Total  { get; set; }
 
-        public List<T> Rows { get; set; }remo 
+        public List<T> Rows { get; set; }
     }
 }
