@@ -8,7 +8,7 @@ namespace OperationManager.Logic
         public AppConfig(IAppSettings appSettings)
         {
             Env = appSettings.Get<Env>("Env", Env.Dev);
-            UploadSavePath = appSettings.Get<string>("UploadPath", "Uploads");
+            UploadSavePath = appSettings.Get<string>("UploashowdPath", "Uploads");
             VisitUrlPath = appSettings.Get<string>("VisitPath", "Uploads");
             SessionTimeout = appSettings.Get<int>("SessionTimeout", 60 * 6);
         }
